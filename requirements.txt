@@ -1,0 +1,6 @@
+playwright
+transformers
+torch
+pillow
+requests
+accelerate
